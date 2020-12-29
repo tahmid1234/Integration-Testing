@@ -1,0 +1,21 @@
+E:\IntegrationTesting\Integration-Testing\Integration Testing\Integration Testing\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
+E:\IntegrationTesting\Integration-Testing\Integration Testing\Integration Testing\bin\Debug\Mono.Cecil.dll
+E:\IntegrationTesting\Integration-Testing\Integration Testing\Integration Testing\bin\Debug\Mono.Cecil.Mdb.dll
+E:\IntegrationTesting\Integration-Testing\Integration Testing\Integration Testing\bin\Debug\Mono.Cecil.Pdb.dll
+E:\IntegrationTesting\Integration-Testing\Integration Testing\Integration Testing\bin\Debug\Mono.Cecil.Rocks.dll
+E:\IntegrationTesting\Integration-Testing\Integration Testing\Integration Testing\bin\Debug\nunit.core.dll
+E:\IntegrationTesting\Integration-Testing\Integration Testing\Integration Testing\bin\Debug\nunit.core.interfaces.dll
+E:\IntegrationTesting\Integration-Testing\Integration Testing\Integration Testing\bin\Debug\nunit.util.dll
+E:\IntegrationTesting\Integration-Testing\Integration Testing\Integration Testing\bin\Debug\Integration Testing.exe.config
+E:\IntegrationTesting\Integration-Testing\Integration Testing\Integration Testing\bin\Debug\Integration Testing.exe
+E:\IntegrationTesting\Integration-Testing\Integration Testing\Integration Testing\bin\Debug\Integration Testing.pdb
+E:\IntegrationTesting\Integration-Testing\Integration Testing\Integration Testing\bin\Debug\nunit.framework.dll
+E:\IntegrationTesting\Integration-Testing\Integration Testing\Integration Testing\bin\Debug\WebDriver.dll
+E:\IntegrationTesting\Integration-Testing\Integration Testing\Integration Testing\bin\Debug\nunit.framework.pdb
+E:\IntegrationTesting\Integration-Testing\Integration Testing\Integration Testing\bin\Debug\nunit.framework.xml
+E:\IntegrationTesting\Integration-Testing\Integration Testing\Integration Testing\bin\Debug\WebDriver.xml
+E:\IntegrationTesting\Integration-Testing\Integration Testing\Integration Testing\obj\Debug\Integration Testing.csprojAssemblyReference.cache
+E:\IntegrationTesting\Integration-Testing\Integration Testing\Integration Testing\obj\Debug\Integration Testing.csproj.CoreCompileInputs.cache
+E:\IntegrationTesting\Integration-Testing\Integration Testing\Integration Testing\obj\Debug\Integration Testing.csproj.CopyComplete
+E:\IntegrationTesting\Integration-Testing\Integration Testing\Integration Testing\obj\Debug\Integration Testing.exe
+E:\IntegrationTesting\Integration-Testing\Integration Testing\Integration Testing\obj\Debug\Integration Testing.pdb
